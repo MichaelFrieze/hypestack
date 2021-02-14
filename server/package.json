@@ -4,7 +4,9 @@
   "description": "Server for hypestack boilerplate",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node src/index.ts"
+    "watch": "tsc -W",
+    "dev": "nodemon dist/index.js",
+    "start": "node dist/index.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +20,7 @@
   "homepage": "https://github.com/MichaelFrieze/hypestack#readme",
   "devDependencies": {
     "@types/node": "^14.14.28",
+    "nodemon": "^2.0.7",
     "ts-node": "^9.1.1",
     "typescript": "^4.1.5"
   }
