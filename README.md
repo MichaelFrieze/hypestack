@@ -2,7 +2,7 @@
 
 [From Ben Awad's tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
 
-Current time of video: 7:00
+Current time of video: 10:52
 
 ### Includes the follow technologies
 
