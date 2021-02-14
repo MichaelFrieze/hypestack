@@ -1,10 +1,10 @@
 # hypestack
 
-(From Ben Awad's tutorial)[https://www.youtube.com/watch?v=I6ypD7qv3Z8]
+[From Ben Awad's tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
 
 Current Time:
 
-(Ben Awad's "lireddit" repository)[https://github.com/benawad/lireddit]
+[Ben Awad's "lireddit" repository](https://github.com/benawad/lireddit)
 
 Includes the follow technologies:
 
