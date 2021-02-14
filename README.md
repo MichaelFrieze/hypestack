@@ -4,9 +4,7 @@
 
 Current time of video: 0:00
 
-[Ben Awad's "lireddit" repository](https://github.com/benawad/lireddit)
-
-Includes the follow technologies:
+### Includes the follow technologies
 
 - React
 - TypeScript
@@ -19,3 +17,5 @@ Includes the follow technologies:
 - Next.js
 - TypeGraphQL
 - Chakra
+
+[Ben Awad's "lireddit" repository](https://github.com/benawad/lireddit)
