@@ -2,7 +2,7 @@
 
 [From Ben Awad's tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
 
-Current Time:
+Current time of video: 0:00
 
 [Ben Awad's "lireddit" repository](https://github.com/benawad/lireddit)
 
