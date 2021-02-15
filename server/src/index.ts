@@ -9,6 +9,7 @@ const main = async () => {
   const orm = await MikroORM.init({
     entities: [Post],
     dbName: 'hypestack',
+    user: process.env.DB_USER,
     password: process.env.DB_PASSWORD,
     type: 'postgresql',
     debug: !__prod__,

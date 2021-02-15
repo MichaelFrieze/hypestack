@@ -21,6 +21,7 @@ const main = () => __awaiter(void 0, void 0, void 0, function* () {
     const orm = yield core_1.MikroORM.init({
         entities: [Post_1.Post],
         dbName: 'hypestack',
+        user: process.env.DB_USER,
         password: process.env.DB_PASSWORD,
         type: 'postgresql',
         debug: !constants_1.__prod__,
